@@ -1,0 +1,6 @@
+{
+  "name": "BRACA Real-Time Task Manager",
+  "description": "A collaborative task management application with real-time multi-device synchronization, styled with the Biodiversity Research and Conservation Alliance (BRACA) layout and ready for GitHub and Cloudflare Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+name = "braca-wildlife"
+compatibility_date = "2026-10-24"
+
+# Deploy the Vite production bundle as Cloudflare Workers Static Assets.
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
